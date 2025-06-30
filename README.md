@@ -18,4 +18,4 @@ This is a Power BI dashboard project built using the Adventure Works dataset. It
 - Understand return patterns and how they affect net sales.
 
 
-![Dashboard Screenshot](DashBoard Image.PNG)
+![Dashboard Screenshot](DashBoard_Image.PNG)
