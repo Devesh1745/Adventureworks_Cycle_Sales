@@ -66,10 +66,10 @@ Created a centralized **Measure Table** with the following DAX measures:
 - 🧺 **Product Category Analysis**: Insights by Bikes, Accessories, and Clothing — including return behaviors and order patterns.
 - 🎨 **Consistent Branding**: Custom color palette and branded visuals using Adventure Works' logo and theme.
 
-## DashBorad
+## 📊DashBorad
 ![Dashboard Screenshot](DashBoard_Image.PNG)
 
-**Key Visuals:**
+**🔍 Key Visuals:**
 - 🌍 Sales and orders by **continent** and **country**
 - 🧺 Top 10 best-selling **products**
 - 🛍️ Orders by **category** (Accessories, Bikes, Clothing)
