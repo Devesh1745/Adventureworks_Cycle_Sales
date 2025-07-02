@@ -1,7 +1,7 @@
 # Adventureworks_Cycle_Sales
 🧭 Adventure Works Power BI Project
 This is a Power BI dashboard project built using the Adventure Works dataset. It provides business insights using sales, customer, product, and return data from the Adventure Works company.
-![Dashboard](dashboard.png)
+!(Raw Data Files/9ac80616-1b4e-4c0a-adca-190e92477743.png.png)
 
 📌 Overview
 The Adventure Works Sales Dashboard is designed to provide strategic insights into the performance of a fictional bicycle company over three years (2020–2022). It merges data from various sources to provide a comprehensive view of customer behavior, product performance, geographic distribution, and sales trends. The report enables data-driven decision-making through dynamic visualizations, KPIs, and trend analysis.
