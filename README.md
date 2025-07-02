@@ -1,6 +1,7 @@
 # Adventureworks_Cycle_Sales
 🧭 Adventure Works Power BI Project
 This is a Power BI dashboard project built using the Adventure Works dataset. It provides business insights using sales, customer, product, and return data from the Adventure Works company.
+![Dashboard](dashboard.png)
 
 📌 Overview
 The Adventure Works Sales Dashboard is designed to provide strategic insights into the performance of a fictional bicycle company over three years (2020–2022). It merges data from various sources to provide a comprehensive view of customer behavior, product performance, geographic distribution, and sales trends. The report enables data-driven decision-making through dynamic visualizations, KPIs, and trend analysis.
@@ -89,16 +90,7 @@ Created a centralized **Measure Table** with the following DAX measures:
 
   ## 📚 Data Story
 
-Adventure Works is a bicycle company that sells bikes, clothing, and accessories in different parts of the world — like Europe, North America, and the Pacific. They collected sales data from the years 2020 to 2022 to understand how their business is doing.
-
-This report brings all the data together and adds extra details like customer age, income levels, and product types. It helps answer questions like:
-
-- Which regions are bringing in the most sales?
-- What products are the most popular?
-- What types of customers are buying the most?
-- How much profit is the company making and how many products are being returned?
-
-The dashboard tells the full story using charts,and filters so managers can explore the data and make smart decisions to grow the business.
+Adventure Works is a company that sells bicycles, clothes, and accessories in places like Europe, North America, and the Pacific. To understand how the business is doing, they collected sales data from the last three years. This project puts all the data together and adds extra details like customer age, income, and product types. The dashboard helps answer simple questions like: Where are we selling the most? Which products are popular? Who are our main customers? Are we making good profit? With easy charts and numbers, the report helps the company make better decisions and grow their business.
 
 ## 🔍 Top Insights 
 
