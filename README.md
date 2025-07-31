@@ -123,7 +123,7 @@ Adventure Works is a company that sells bicycles, clothes, and accessories in pl
 - 🎯 **Target Middle and Upper Middle Class customers**: Based on consistent high-spending behavior.
 - 📅 **Leverage Q1 & Q4 seasonality**: Launch promotional campaigns to maximize seasonal demand.
 
-  ## 🧾 Conclusion (Simple Version)
+  ## 🧾 Conclusion
 
 This Power BI project shows how raw sales data can be turned into useful business insights. After combining and cleaning data from three years, the dashboard helps us:
 
